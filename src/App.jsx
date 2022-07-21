@@ -6,7 +6,7 @@ import Profile from './components/Profile/Profile.jsx';
 import Statistics from './components/Stats/Stats.jsx';
 import FriendList from './components/FriendsList/FriendList.jsx';
 import TransactionHistory from './components/TransactionHistory/TransactionHistory.jsx';
-
+//
 export const App = () => {
   return (
     <div
